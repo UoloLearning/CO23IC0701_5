@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>
+            Know Me Better
+        </title>
+        <style>
+            .mylist{
+                background-color: cyan;
+                border: 5px outset black;
+            }
+            h2{
+                margin: 20px;
+                padding: 20px;
+                background-color:coral;
+                text-align: center;
+            }
+            img{
+                border: 5px outset;
+                border-color: red;
+            }
+        </style>
+    </head>
+    <body>
+        Hi! If you want to know about me, just explore my web page.
+        <h2>Sports I love: </h2>
+        <div class="Mylist">
+            <ol>
+                <li id="My favourite">Cricket</li>
+                <li>Football</li>
+                <li>Badminton</li>
+                <li>Basketball</li>
+                <li>Table Tennis</li>
+            </ol>
+        </div>
+        <img src="https://cricketershub.com/wp-content/uploads/2019/02/Equipment-Featured-Image.jpg" width="200px" height="200px">
+        <h4> Here is a link to the information about the outdoor games:  </h4>
+       
+        <a href = "https://www.javatpoint.com/list-of-sports"> Sports I like </a>
+        <br>
+        <a href="#My favourite"> My favourite game in the list </a>
+    </body>
+</html>
