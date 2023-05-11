@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title> My Favoutrite Sports</title>
+        <style>
+            h2{
+                background-color: cadetblue;
+                margin-top: 20px;
+                text-align: center;
+            }
+            .mylist{
+                border:5px outset green;
+            }
+            img{
+                width: 500px;
+                height: 400px;
+                border: 5px outset;
+                border-color: red;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>My Favourite Sports</h2><br>
+        <p> My favourite sports is Cricket.</p>
+        <b>Here is a list of my favourite players in Cricket: </b><br>
+        <div class="mylist">
+            <ul>
+                <li>Mahendra Singh Dhoni</li>
+                <li>Kapil Dev</li>
+                <li>Sachin Tendulkar</li>
+                <li>Rahul Dravid</li>
+                <li>Wasim Akram</li>
+                <li>Shane Warne</li>
+                <li>Brian Lara</li>
+                <li>Muthiah Muralitharan</li>
+                <li>Jacques Kallis</li>
+                <li>Imran Khan</li>
+            </ul>
+        </div>
+        <br>
+        <img src="https://www.youngisthan.in/hindi/wp-content/uploads/2016/03/mahendra-singh-dhoni-photo-hd.jpg">
+        <br>
+        <b>To know more about the players click on the link below.</b><br>
+        <a href="https://advicesacademy.com/sports/best-cricket-player/">best-cricket-player</a>
+    </body>
+</html>
